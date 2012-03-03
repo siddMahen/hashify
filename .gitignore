@@ -1,0 +1,4 @@
+/build
+.lock-wscript
+/src/.lock-wscript
+tmp
