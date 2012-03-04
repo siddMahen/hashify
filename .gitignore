@@ -1,4 +1,4 @@
 /build
 .lock-wscript
 /src/.lock-wscript
-tmp
+.wafpickle-7
