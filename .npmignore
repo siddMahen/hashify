@@ -1,4 +1,1 @@
-.lock-wscript
-.wafpickle-7
-/src/.lock-wscript
-/build/.wafpickle-7
+build/

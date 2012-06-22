@@ -13,7 +13,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "preinstall": "node-waf clean || true; node-waf configure build"
+    "preinstall": "node-gyp configure build",
+    "uninstall": "node-gyp clean"
   },
   "engines": {
     "node": "*"
