@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/siddMahen/hashify.png)](http://travis-ci.org/siddMahen/hashify)
 # hashify
 
 Native v8 object hashes made available.
